@@ -3,5 +3,7 @@ pandas
 xgboost
 tqdm
 matplotlib
-grpcio
-ray
+# RAY
+ray[default]
+ray[air]
+xgboost_ray
